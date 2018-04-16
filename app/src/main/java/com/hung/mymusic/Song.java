@@ -5,7 +5,7 @@ package com.hung.mymusic;
  */
 
 public class Song {
-    private String name, path, album, artist;
+    private String name, path, album, artist, dateTime;
     private int duration;
 
     public Song(String name, String path, String album, String artist, int duration) {
