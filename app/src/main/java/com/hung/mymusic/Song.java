@@ -35,4 +35,8 @@ public class Song {
     public int getDuration() {
         return duration;
     }
+    
+    public String getDateTime(){
+        return dateTime;
+    }
 }
